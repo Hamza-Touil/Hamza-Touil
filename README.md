@@ -5,7 +5,6 @@
   
 - 🔭 I’m currently working on **BIM Engineer & Developpement of Plugins**
 - I have experience in : Revit , Navisworks , Robot Structural Analysis , Adapt Builder 
-- 🌱 I’m currently learning **Revit API**
 
 - 📫 How to reach me **touilhamza252@gmail.com**
 
