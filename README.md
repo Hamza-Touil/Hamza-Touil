@@ -21,7 +21,7 @@ A motivated Civil Engineer and BIM specialist with a passion for integrating cut
 
 - Led BIM modeling and coordination for Ibn Sina University Hospital Center project.
 
-- Automated clash detection and reporting between electrical and fluid systems using Navisworks.
+- Automated clash detection and reporting between electrical and fluid systems .
   
 - Created parametric families and integrated data via BIM 360 for seamless collaboration.
 <h3 align="Center">Civil Engineer Intern , Omnium Technologique (OMTEQ) – Rabat, Morocco | February 2024 – May 2024 </h3>
