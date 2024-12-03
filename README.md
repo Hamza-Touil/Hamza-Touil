@@ -17,7 +17,7 @@ A motivated Civil Engineer and BIM specialist with a passion for integrating cut
 - Designed and implemented tools for managing Revit projects and families, including backup cleaning automation.
 
 - Developed add-ins and plugins using C# and .NET for Autodesk products to enhance BIM workflows.
-<h3 align="Center">BIM Engineer , Smart Data Engineering (SMARDEN) – Rabat, Morocco | August 2024 – Present </h3>
+<h3 align="Center">BIM Engineer , Smart Data Engineering (SMARDEN) – Rabat, Morocco | August 2024 – December </h3>
 
 - Led BIM modeling and coordination for Ibn Sina University Hospital Center project.
 
